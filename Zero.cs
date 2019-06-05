@@ -17,7 +17,7 @@ namespace inheritance_practice
 
         public override void Turn(string direction)
         {
-            Console.WriteLine($"The Zero is making a {direction} turn!");
+            Console.WriteLine($"The {this.MainColor} Zero is making a {direction} turn!");
         }
 
         public override void Stop()
