@@ -1,0 +1,11 @@
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/bin/Debug/netcoreapp2.2/inheritance-practice.deps.json
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/bin/Debug/netcoreapp2.2/inheritance-practice.runtimeconfig.json
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/bin/Debug/netcoreapp2.2/inheritance-practice.runtimeconfig.dev.json
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/bin/Debug/netcoreapp2.2/inheritance-practice.dll
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/bin/Debug/netcoreapp2.2/inheritance-practice.pdb
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.csprojAssemblyReference.cache
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.csproj.CoreCompileInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.AssemblyInfoInputs.cache
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.AssemblyInfo.cs
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.dll
+/Users/blue/Projects/NSS/workspace/csharp/practice/inheritance-practice/obj/Debug/netcoreapp2.2/inheritance-practice.pdb
