@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace inheritance_practice
 {
@@ -57,6 +58,22 @@ namespace inheritance_practice
             Console.WriteLine(coolerCar.Drive());
             coolerCar.Turn("left");
             coolerCar.Stop();
+
+            List<Vehicle> gasVehicles = new List<Vehicle>()
+            { newRam, coolerCar};
+
+            List<Vehicle> electricCars = new List<Vehicle>()
+            { coolCar, newZero};
+
+            BatteryStation batteryStation = new BatteryStation();
+            batteryStation.Capacity = 10;
+            Console.WriteLine();
+            batteryStation.Refuel(electricCars);
+            Console.WriteLine();
+
+            GasStation gasStation = new GasStation();
+            gasStation.Capacity = 15;
+            gasStation.Refuel(gasVehicles);
         }
     }
 }
